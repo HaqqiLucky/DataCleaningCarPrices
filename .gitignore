@@ -1,0 +1,12 @@
+# Ignore specific files
+banana_quality_dataset.csv
+driverlicense.ipynb
+rusakbanana_quality_dataset.csv
+bersihbanana_quality_dataset.csv
+Laptop_price.csv
+mode_mean_median.py
+pixace.png
+
+# Ignore virtual environment folder
+venv/
+.venv/
